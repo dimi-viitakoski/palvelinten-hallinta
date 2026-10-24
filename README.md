@@ -1,7 +1,9 @@
-# Palvelinten hallinta
+# Dimin kotitehtävät:
 
-[Karvinen 2026: Palvelinten Hallinta](https://terokarvinen.com/palvelinten-hallinta/)
+- [h0 Oikeasti netissä](h0/h0.md)
+- h1 *tulossa*
+- h2 *tulossa*
 
 ---
 
-Dimin kotitehtävät:
+[Karvinen 2026: Palvelinten Hallinta](https://terokarvinen.com/palvelinten-hallinta/)
