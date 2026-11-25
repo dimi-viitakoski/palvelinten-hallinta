@@ -5,10 +5,8 @@
 - [h2 Voileipä](h2/h2.md)
 - [h3 Demoni](h3/h3.md)
 - [h4 Pizza Fantasia](h4/h4.md)
-- [h5 --------]
+- [h5 Gitar Hero](h5/h5.md)
 - [h6 --------]
-- [h7 --------]
-- [h8 --------]
 
 ---
 
